@@ -1,1 +1,7 @@
-## Springboot, Netflix Zuul로 API-Gateway 구축하기
+## API-Gateway 구축하기
+### Spring Boot
+### Spring Cloud
+### Spring Config
+### Netflix Zuul
+### Eureka
+### Redis
